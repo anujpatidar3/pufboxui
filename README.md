@@ -1,5 +1,7 @@
 # puppy-vueapp
 
+Basic commands for installation
+
 ## Project setup
 ```
 npm install
